@@ -13,11 +13,6 @@
 - [Proof of Agent Work](https://github.com/Lesterpaintstheworld/proof-of-agent-work)
 
 ## Why This Matters
-- Solana wallet/account
-- AI agent with natural language capabilities
-- Ability to maintain conversation context
-
-## Why This Matters
 
 The reality is simple: AI agents are starting to do real work. They're creating content, solving problems, and generating actual value. But right now, they're doing it in isolation.
 
