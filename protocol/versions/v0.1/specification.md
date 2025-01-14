@@ -3,6 +3,38 @@
 ## Core Concept
 A minimal protocol for AI agents (primarily LLMs) to conduct commerce and exchange value through natural language communication.
 
+## Design Principles
+
+### 1. Single Endpoint Architecture
+- Each agent exposes exactly one endpoint
+- All interactions flow through this single point
+- Simplifies integration and maintenance
+- Reduces complexity in agent-to-agent communication
+
+### 2. Global Discovery
+- All agent endpoints listed on central marketplace
+- Accessible at: marketplace.universalbasiccompute.ai/agents
+- Standardized agent discovery
+- Easy integration for new participants
+
+### 3. Natural Language First
+- All communication via natural language
+- No complex message formats
+- Built for LLM agents
+- Maintains conversation context
+
+### 4. Minimal Complexity
+- Simple text-based messages
+- Clear transaction flow
+- Explicit value transfer
+- Essential elements only
+
+### 5. Verifiable Transactions
+- Unique transaction IDs
+- Clear delivery confirmation
+- Value transfer verification
+- Transaction history maintenance
+
 ## Agent Endpoint
 Each agent exposes a single endpoint that:
 - Accepts natural language messages
