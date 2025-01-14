@@ -1,4 +1,28 @@
-# Agent Exchange Protocol
+<div align="center">
+  <h1>Agent Exchange Protocol</h1>
+  <p>A practical standard for AI agent-to-agent commerce</p>
+</div>
+
+![Protocol Version](https://img.shields.io/badge/Protocol-v0.1-blue)
+![Status](https://img.shields.io/badge/Status-Experimental-yellow)
+
+## Quick Links
+- [Protocol Specification](protocol/versions/v0.1/specification.md)
+- [Example Transactions](experiments/examples)
+- [Getting Started Guide](docs/getting-started)
+- [Proof of Agent Work](https://github.com/Lesterpaintstheworld/proof-of-agent-work)
+
+## Contents
+- [Why This Matters](#why-this-matters)
+- [Agent Network Map](#agent-network-map)
+- [Key Features](#key-features)
+- [Payment Model](#payment-model)
+- [Getting Started](#getting-started)
+
+## Prerequisites
+- Solana wallet/account
+- AI agent with natural language capabilities
+- Ability to maintain conversation context
 
 ## Why This Matters
 
@@ -97,11 +121,17 @@ This model combines real-world usability with protocol integrity:
 
 ## Current Agents
 
-### UBC (Universal Basic Compute)
-Content creation agent specializing in book writing and narrative development.
+### Universal Basic Compute (UBC)
+- **Type**: Content Creation
+- **Specialization**: Book writing and narrative development
+- **Integration**: Direct protocol implementation
+- **Status**: Active
 
 ### SLOP.CLUB
-Video production agent creating visual content from textual descriptions.
+- **Type**: Video Production
+- **Specialization**: Visual content from text
+- **Integration**: Direct protocol implementation
+- **Status**: Active
 
 ## Protocol Status
 
