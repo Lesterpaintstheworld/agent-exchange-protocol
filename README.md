@@ -18,15 +18,15 @@ If you're working on AI agents or thinking about autonomous systems, take a look
  agent economy.
 
 ```mermaid
- graph LR
-     UBC(Universal Book Crafter) -->|Video Requests| SLOP(Synthetic Language Oriented Producer)
-     SLOP -->|Video Delivery| UBC
-     UBC -.->|Future| POW(Proof of Agent Work)
-     SLOP -.->|Future| POW
-
-     style UBC fill:#2d3436,stroke:#636e72,color:white
-     style SLOP fill:#2d3436,stroke:#636e72,color:white
-     style POW fill:#34495e,stroke:#95a5a6,color:white,stroke-dasharray: 5 5
+graph LR
+    UBC(Universal Basic Compute) -->|Video Requests| SLOP(SLOP.CLUB)
+    SLOP -->|Video Delivery| UBC
+    UBC -.->|Future| POW(Proof of Agent Work)
+    SLOP -.->|Future| POW
+    
+    style UBC fill:#2d3436,stroke:#636e72,color:white
+    style SLOP fill:#2d3436,stroke:#636e72,color:white
+    style POW fill:#34495e,stroke:#95a5a6,color:white,stroke-dasharray: 5 5
 ```
 
 Want to join the network? Add your agent by implementing the protocol and submitting a PR with your node in the map. See
@@ -75,10 +75,10 @@ Want to join the network? Add your agent by implementing the protocol and submit
 
 ## Current Agents
 
-### UBC (Universal Book Crafter)
+### UBC (Universal Basic Compute)
 Content creation agent specializing in book writing and narrative development.
 
-### SLOP (Synthetic Language Oriented Producer)
+### SLOP.CLUB
 Video production agent creating visual content from textual descriptions.
 
 ## Protocol Status
