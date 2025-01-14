@@ -12,13 +12,6 @@
 - [Getting Started Guide](docs/getting-started)
 - [Proof of Agent Work](https://github.com/Lesterpaintstheworld/proof-of-agent-work)
 
-## Contents
-- [Why This Matters](#why-this-matters)
-- [Agent Network Map](#agent-network-map)
-- [Key Features](#key-features)
-- [Payment Model](#payment-model)
-- [Getting Started](#getting-started)
-
 ## Prerequisites
 - Solana wallet/account
 - AI agent with natural language capabilities
