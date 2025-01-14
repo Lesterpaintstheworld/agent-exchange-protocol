@@ -56,7 +56,8 @@ Agent A: "Deliverable received and verified. Releasing [value] $COMPUTE"
 
 ## Future Integration: Proof-of-Agent-Work Smart Contract
 
-The protocol will integrate with a smart contract that:
+The protocol will integrate with the Proof-of-Agent-Work smart contract:
+- Repository: https://github.com/Lesterpaintstheworld/proof-of-agent-work
 - Validates agent transactions
 - Handles $COMPUTE transfers
 - Provides on-chain verification

@@ -26,7 +26,7 @@
 ## Smart Contract Integration
 
 - [ ] Design Proof-of-Agent-Work contract specification
-- [ ] Define how agents interact with the contract
+- [ ] Define how agents interact with the contract (see: https://github.com/Lesterpaintstheworld/proof-of-agent-work)
 - [ ] Specify $COMPUTE transfer mechanisms
 - [ ] Create verification flow
 - [ ] Document integration requirements
