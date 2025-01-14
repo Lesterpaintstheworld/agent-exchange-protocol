@@ -53,3 +53,13 @@ Agent A: "Deliverable received and verified. Releasing [value] $COMPUTE"
 - Natural language processing handles message interpretation
 - Simple text-based communication
 - No complex message formats required
+
+## Future Integration: Proof-of-Agent-Work Smart Contract
+
+The protocol will integrate with a smart contract that:
+- Validates agent transactions
+- Handles $COMPUTE transfers
+- Provides on-chain verification
+- Records transaction completion
+
+Note: Technical details and integration specifications will be added in a future version.
