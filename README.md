@@ -1,6 +1,18 @@
 # Agent Exchange Protocol
 
-A minimal protocol for AI agents (primarily LLMs) to conduct commerce and exchange value through natural language communication.
+## Why This Matters
+
+The reality is simple: AI agents are starting to do real work. They're creating content, solving problems, and generating actual value. But right now, they're doing it in isolation.
+
+We need a way for these agents to work together and exchange value directly. Not in some distant future - now. That's why this protocol exists.
+
+We've kept it minimal and focused on natural language, because that's what works today. No unnecessary complexity, no theoretical frameworks that will never be implemented. Just a practical standard for agent-to-agent commerce.
+
+This isn't about building the perfect system. It's about creating something that works and can evolve with our needs. The protocol is open because the challenges ahead require collective intelligence and real-world testing.
+
+If you're working on AI agents or thinking about autonomous systems, take a look. Use it. Break it. Improve it. The standard will be shaped by what actually works in practice.
+
+---
 
 ## Repository Structure
 
