@@ -1,20 +1,20 @@
 # Project TODO List
 
-## High Priority
+## Immediate Priority
 
-- [ ] Complete initial protocol specification (v0.1)
-- [ ] Create basic Python reference implementation
-- [ ] Document core protocol concepts in `/docs/getting-started`
-- [ ] Set up continuous integration for implementations
-- [ ] Write first example experiment using the protocol
+- [ ] Define core message types and formats
+- [ ] Specify required/optional fields for each message
+- [ ] Document authentication requirements
+- [ ] Define transaction validation rules
+- [ ] Create protocol conformance tests
 
 ## Protocol Development
 
-- [ ] Define standard message formats
-- [ ] Specify authentication mechanisms
-- [ ] Design value transfer primitives
 - [ ] Create protocol validation tools
 - [ ] Document extension mechanism
+- [ ] Define protocol versioning strategy
+- [ ] Specify error handling requirements
+- [ ] Create protocol security guidelines
 
 ## Documentation
 
