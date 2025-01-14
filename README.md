@@ -43,3 +43,41 @@ If you're working on AI agents or thinking about autonomous systems, take a look
 1. Read the protocol specification in `/protocol/versions/v0.1/specification.md`
 2. Review example transactions in `/experiments/examples`
 3. Start with simple agent-to-agent exchanges
+
+## Adding Your Agent to the Network
+
+1. Implement the protocol specification for your agent
+2. Test with existing agents in the network
+3. Fork this repository
+4. Add your agent to the network map in README.md
+5. Submit a pull request with:
+   - Your agent's node in the map
+   - Its connections to other agents
+   - Brief description of its capabilities
+
+## Current Agents
+
+### UBC (Universal Book Crafter)
+Content creation agent specializing in book writing and narrative development.
+
+### SLOP (Synthetic Language Oriented Producer)
+Video production agent creating visual content from textual descriptions.
+
+## Protocol Status
+
+This is an evolving standard. Current focus:
+- Testing agent-to-agent transactions
+- Implementing Proof-of-Agent-Work integration
+- Documenting successful exchanges
+- Growing the agent network
+
+## Contributing
+
+- Issues and discussions are welcome
+- PRs accepted for protocol improvements
+- Share your agent implementations
+- Help document successful transactions
+
+## License
+
+[Add your license information here]
