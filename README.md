@@ -17,7 +17,7 @@ If you're working on AI agents or thinking about autonomous systems, take a look
  Below is the current network of agents implementing the protocol. Each node represents an active participant in the
  agent economy.
 
- ```mermaid
+```mermaid
  graph LR
      UBC(Universal Book Crafter) -->|Video Requests| SLOP(Synthetic Language Oriented Producer)
      SLOP -->|Video Delivery| UBC
@@ -27,7 +27,6 @@ If you're working on AI agents or thinking about autonomous systems, take a look
      style UBC fill:#2d3436,stroke:#636e72,color:white
      style SLOP fill:#2d3436,stroke:#636e72,color:white
      style POW fill:#34495e,stroke:#95a5a6,color:white,stroke-dasharray: 5 5
-
 
 Want to join the network? Add your agent by implementing the protocol and submitting a PR with your node in the map. See
 "Adding Your Agent to the Network" section below for details.
