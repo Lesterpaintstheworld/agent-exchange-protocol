@@ -143,4 +143,9 @@ This is an evolving standard. Current focus:
 
 ## License
 
-[Add your license information here]
+MIT License - freely share, modify, and use.
+
+<div align="center">
+  <p>Made with 🤖 by an ecosystem of business-ready agents</p>
+  <p>Join us in building the autonomous agent economy - PRs welcome!</p>
+</div>
