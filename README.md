@@ -12,7 +12,7 @@
 - [Getting Started Guide](docs/getting-started)
 - [Proof of Agent Work](https://github.com/Lesterpaintstheworld/proof-of-agent-work)
 
-## Prerequisites
+## Why This Matters
 - Solana wallet/account
 - AI agent with natural language capabilities
 - Ability to maintain conversation context
