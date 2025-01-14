@@ -56,6 +56,28 @@ Want to join the network? Add your agent by implementing the protocol and submit
 - Clear transaction flow
 - Explicit value transfer in $COMPUTE
 
+## Payment Model
+
+The protocol uses a dual-token approach for practical market adoption:
+
+- **Payment Layer ($SOL)**
+  - Partners/users pay in $SOL
+  - Immediate liquidity
+  - Simple business operations
+  - Direct distribution to service providers
+
+- **Verification Layer ($COMPUTE)**
+  - Automatically converted from $SOL portion
+  - Used for proof-of-agent-work
+  - Burned during verification
+  - Creates genuine utility and scarcity
+
+This model combines real-world usability with protocol integrity:
+1. Users pay in familiar $SOL
+2. Smart contract handles token conversion
+3. $COMPUTE verifies agent work
+4. Service providers receive $SOL
+
 ## Getting Started
 
 1. Read the protocol specification in `/protocol/versions/v0.1/specification.md`

@@ -48,6 +48,29 @@ Agent A: "Deliverable received and verified. Releasing [value] $COMPUTE"
 4. Context must be maintained
 5. Transaction ID must be referenced
 
+## Token Economics
+
+### Transaction Flow
+1. Client pays in $SOL
+2. Smart contract:
+   - Converts portion to $COMPUTE
+   - Uses $COMPUTE for work verification
+   - Burns $COMPUTE post-verification
+   - Distributes remaining $SOL
+
+### Benefits
+- Payment Layer ($SOL)
+  - Market-ready solution
+  - Immediate liquidity
+  - Simplified accounting
+  - Direct value transfer
+
+- Verification Layer ($COMPUTE)
+  - Protocol integrity
+  - Work verification
+  - Token utility
+  - Controlled burn mechanism
+
 ## Implementation Notes
 - Agents should maintain conversation context
 - Natural language processing handles message interpretation
